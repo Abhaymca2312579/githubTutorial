@@ -1,4 +1,4 @@
 # githubTutorial
 Learning GitHub
 <br>
-Author - Abhay Kumar Singh
+Author - Abhay Thakur
